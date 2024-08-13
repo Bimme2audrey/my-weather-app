@@ -39,6 +39,10 @@ header {
     color: black;
 }
 
+.search-form-button:hover{
+    cursor: pointer;
+}
+
 main {
     padding: 30px 0;
 }
@@ -62,7 +66,7 @@ font-weight: 500;
 }
 
 .weather-app-details strong {
-    color: #f65282;
+    color: #b95d16;
 }
 
 .weather-app-temperature-container {
@@ -109,7 +113,7 @@ margin: 0 auto;
 
 .weather-forecast-temperatures {
 text-align: center;
-color: #f65282;
+color: #b95d16;
 margin-top: 10px;
 display: flex;
 justify-content: center;
