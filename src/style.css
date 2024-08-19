@@ -13,7 +13,7 @@ a {
 .weather-app {
     background-image: url(https://img.freepik.com/premium-photo/dramatic-portrait-towering-cumulonimbus-clouds-against-deep-blue-sky-power-majesty_981640-63685.jpg?size=626&ext=jpg&ga=GA1.2.1376668233.1724065503&semt=ais_hybrid);
     max-width: 600px;
-    background-size: cover;
+   background-size: 120%;
     margin: 45px auto;
     box-shadow: 0 30px 50px rgba(65, 50, 100, 0.08);
     border-radius: 16px;
